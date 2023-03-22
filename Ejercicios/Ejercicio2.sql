@@ -39,6 +39,3 @@ go
 --Prueba
 EXECUTE get_prestamos_vigentes @fecha='20200101';
 go
-
-select DATEDIFF(DAY,'20210301', '20210901')
-select DATEDIFF(DAY,'20210301', GETDATE())
