@@ -1,0 +1,19 @@
+Notas-Aclaraciones:
+
+Primero y nuevamente : Gracias por tomarse el tiempo de revisar mis scripts.
+
+Notas tecnicas:
+Use Microsoft SQL Server por comodidad dado que ya lo tenia instalado en mi PC.
+
+Ejercicio2:
+
+Para el ejercicio 2 tome las siguientes consideraciones : 
+Cantidad de dias totales = Fecha Vencimiento - Fecha Alta
+Nro de días de alta = Fecha de hoy - Fecha Alta
+
+El script recibido en el e-mail tenia un error en el insert a la tabla ImpuestoSolidario
+Dicho insert decia linea en vez de Línea por ende no se habrian insertado si se ejecutara
+como viene el codigo. Es el UNICO cambio que se le hizo al SCRIPT original recibido.
+
+Si algo no quedo claro en lo scripts enviado puedo explicarlo completamente sin problemas.
+Si se desea el SCRIPT en otro formato tambien se puede proporcionar sin problemas.
